@@ -183,8 +183,6 @@ void update_screen_16bpp(struct Screen* my_screen)
 	3. Write shader effect.
 	4. Write to buffer.
 	5. Add user options.
-
-	Musings: might need to skip black pixels.
 */
 int main(int argc, char* argv[])
 {
